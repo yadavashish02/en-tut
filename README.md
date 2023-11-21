@@ -1,7 +1,6 @@
 # en-tut
 <br>
-
-#Directions for use
+*Directions for use*
 <br>
 <ul>
 -pip install tabulate
