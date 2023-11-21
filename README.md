@@ -1,6 +1,9 @@
 # en-tut
 *Directions for use*
--pip install tabulate
--python tutorial_questions.py
--enter roll number
--done
+<br>
+<ul>
+<li>pip install tabulate</li>
+<li>python tutorial_questions.py</li>
+<li>enter roll number</li>
+<li>done</li>
+</ul>
